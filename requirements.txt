@@ -1,0 +1,7 @@
+aiogram==2.20
+aioredis~=2.0
+environs==9.5
+SQLAlchemy~=1.4
+sqlalchemy-stubs~=0.4
+asyncpg
+greenlet
